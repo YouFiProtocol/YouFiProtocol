@@ -101,23 +101,16 @@ PIX Integration: Depósito direto PIX → USDC com webhooks automáticos
 Dashboard Empresarial (Web)
 
 
-
-
-
 Gestão Avançada: Portfolio multi-assets com otimização DeFi
-
 
 
 Automação Smart: Contratos inteligentes para metas e recompensas
 
 
-
 Cross-Chain: Integração Ethereum, Polygon, Arbitrum
 
 
-
 Business Intelligence: Insights financeiros com IA preditiva
-
 
 
 Marketplace: Empréstimos P2P e investimentos colaborativos
@@ -125,27 +118,19 @@ Marketplace: Empréstimos P2P e investimentos colaborativos
 Infraestrutura Zero-Knowledge + Base L2
 
 
-
-
-
 ZK Identity: Self SDK para provas sem revelar dados pessoais (PII)
-
 
 
 Taxa Ultra-baixa: < $0,01 por transação (Paymaster sponsors key actions)
 
 
-
 Anti-Sybil: requireUniqueHuman() + supportCapPerHuman() on-chain
-
 
 
 Smart Verification: Verifier contracts validam ZK proofs automaticamente
 
 
-
 USDC Treasury: Pool integrada ao ecossistema Base/Coinbase (~4,10% a.a.)
-
 
 
 Selective Disclosure: Apenas atributos booleanos chegam aos contratos
@@ -172,96 +157,52 @@ Roadmap & Milestones
 S1-S2 (8 semanas) - Fundamentos Base + ZK EM PROGRESSO
 
 
-
-
-
 Migração Hedera → Base L2 (chainId Base mainnet/Sepolia)
-
 
 
 Self SDK integration (ZK unicidade + idade≥18)
 
 
-
 ERC-4337 AA + Paymaster (gasless onboarding + 1º depósito)
 
 
-
 YouFi Contracts: SBT + Registry + Treasury + Paymaster
-
-
 
 PIX → USDC integration com webhooks
 
 S3-S4 (8 semanas) - Social + Beta Launch PLANEJADO
 
-
-
-
-
 Pool USDC recompensas (~4,10% a.a.) + dashboard ganhos
-
-
 
 Marketplace social: metas públicas + apoio ZK rate-limited
 
-
-
 Frames (Farcaster) para criar/celebrar metas
 
-
-
 Beta fechado: 100-300 usuários + auditoria leve
-
-
 
 Telemetria + UX adjustments
 
 Go-Live (Q2 2025) - Public Launch ESTRATÉGICO
 
-
-
-
-
 Base App destaque + campanha influenciadores
-
-
 
 Meta: 1k usuários / R$ 500k TVL no 1º mês
 
-
-
 KPIs: MAU, taxa conclusão, aporte recorrente, % ações Self-verified
 
-
-
 Auditoria completa contratos + security review
-
-
 
 Expansão orgânica: Base ecosystem partnerships
 
 Scale Phase (Q3-Q4 2025) - Growth & Revenue FUTURO
 
-
-
-
-
 Cross-chain bridges (Ethereum, Polygon, Arbitrum)
-
-
 
 IA avançada: planejamento preditivo + anti-Sybil patterns
 
-
-
 Token governance + revenue sharing para holders
 
-
-
 B2B white-label solutions para fintechs
-
-
 
 Expansão LATAM + parcerias bancos tradicionais
 
@@ -404,149 +345,64 @@ Contribuindo para o Projeto
 
 Como Contribuir
 
-
-
-
-
 Fork o repositório
-
-
 
 Clone sua versão: git clone https://github.com/seu-usuario/youfi-app
 
-
-
 Crie uma branch: git checkout -b feature/nova-funcionalidade
-
-
 
 Desenvolva seguindo nosso guia de estilo
 
-
-
 Teste suas mudanças: npm run test
-
-
 
 Commit com mensagens claras: git commit -m "feat: adiciona funcionalidade X"
 
-
-
 Push para sua branch: git push origin feature/nova-funcionalidade
-
-
 
 Abra um PR detalhando suas mudanças
 
 Áreas de Contribuição
 
-
-
-
-
 Zero-Knowledge: Self SDK integration, ZK proofs, privacy
-
-
 
 Smart Contracts: Solidity, Foundry, ERC-4337, auditoria
 
-
-
 Frontend/UX: React, Next.js, Tailwind, PWA mobile-first
-
-
 
 DeFi Integration: USDC pools, yield farming, Base ecosystem
 
-
-
 Anti-Sybil ML: Detecção patterns, rate-limiting, fraud prevention
 
-
-
 PIX Integration: Webhooks, conciliação, fiat onramps
-
-
 
 Documentação: ZK flows, contract specs, API references
 
 Links Oficiais
-
-
-
-
-
-
-
 Plataforma
-
-
-
 Link
-
-
-
 Descrição
-
-
-
-
-
 Website
-
-
-
 youfi.finance
-
-
-
 Site oficial e landing page
 
-
-
-
-
 App Web
-
-
-
 app.youfi.finance
-
-
 
 Aplicativo principal (PWA)
 
-
-
-
-
 Documentação
-
-
 
 docs.youfi.finance
 
-
-
 Docs técnicas e tutoriais
-
-
-
-
 
 API Reference
 
-
-
 api.youfi.finance
-
-
 
 Documentação das APIs
 
 Redes Sociais & Comunidade
-
-
 
 KPIs & Métricas de Sucesso
 
@@ -580,86 +436,37 @@ NPS Score: Net Promoter Score > 70
 Analytics & Business Intelligence
 
 
-
-
-
 Behavioral Tracking: Heatmaps de UX, drop-off points, feature adoption
-
-
-
 Financial Flow Analysis: PIX→USDC conversion rates, pool performance metrics
-
-
-
 ZK Privacy Metrics: Self verification success rates, selective disclosure usage
-
-
-
 Anti-Sybil Effectiveness: Pattern detection accuracy, false positive rates
-
-
-
 Social Graph Analytics: Network effects, viral mechanics, community health
 
 Parcerias & Investimentos
 
-Para Investidores Estratégicos
-
-
-
-
-
-Investimento Série A: $5M (Q3 2025)
-
-
-
-Token Pré-venda: Token de utilidade com governança
-
-
+Para Investidores Estratégicos : contato@youfi.com.br
 
 Revenue Share: Distribuição de taxas da plataforma
-
-
 
 Board Participation: Orientação estratégica
 
 Para Instituições Financeiras
 
-
-
-
-
 Licenciamento White-Label: Customização completa
-
-
 
 Integração API: Serviços financeiros plug-and-play
 
-
-
 Parceria de Dados: Insights anonimizados para produtos
-
-
 
 Co-Marketing: Aquisição conjunta de clientes
 
 Para Parceiros Tecnológicos
 
-
-
-
-
 Parcerias de Integração: Wallets, protocolos DeFi
-
-
 
 Open Source: Desenvolvimento orientado pela comunidade
 
-
-
 Colaboração em Pesquisa: Instituições acadêmicas
-
-
 
 Programa de Desenvolvedores: SDKs e ferramentas
 
@@ -667,105 +474,66 @@ Contato Profissional
 
 Comunicações Corporativas
 
+Geral: contato@youfi.com.br
 
 
 
+Parcerias: partnerships@youfi.com.br
 
-Geral: team@youfi.finance
+Suporte Técnico: support@youfi.com.br
 
+Imprensa: press@youfi.com.br
 
-
-Parcerias: partnerships@youfi.finance
-
-
-
-Suporte Técnico: support@youfi.finance
-
-
-
-Imprensa: press@youfi.finance
-
-
-
-Investidores: investors@youfi.finance
+Investidores: investors@youfi.com.br
 
 Desenvolvedores & Comunidade
 
 
-
-
-
 GitHub: @YouFiProtocol
-
-
 
 Discord: Comunidade Builders
 
-
-
 Stack Overflow: Tag youfi-protocol
 
-
-
 Bug Reports: GitHub Issues
+
+
 
 Licença & Legal
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes completos.
 
+
+
 Compliance & Privacy-First Architecture
-
-
-
-
 
 LGPD + ZK Privacy: Zero PII storage com Self SDK selective disclosure
 
-
-
 Banco Central: Fintech registrada + PIX integration compliance
-
-
 
 Smart Contract Audits: Foundry formal verification + external review
 
-
-
 USDC Treasury: Compliance com regulação Base/Coinbase ecosystem
-
-
 
 Anti-Sybil: Rate-limiting policies + ZK uniqueness proofs on-chain
 
+
+
 Segurança & Transparência
-
-
-
-
 
 Security-First: security.youfi.finance - public audits
 
-
-
 Bug Bounty Program: Até $50.000 para vulnerabilidades críticas
-
-
 
 Responsible Disclosure: security@youfi.finance com SLA 24h response
 
-
-
 Open Source Security: github.com/YouFiProtocol/security-audits
-
-
 
 Real-time Monitoring: On-chain analytics + anomaly detection
 
 
 
-Construído no Brasil 🇧🇷
-
 YouFi Protocol - Democratizando a Liberdade Financeira com Inovação Blockchain
 
-
+Construído no Brasil 🇧🇷
 
