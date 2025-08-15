@@ -113,7 +113,7 @@ Cross-Chain: Integração Ethereum, Polygon, Arbitrum
 Business Intelligence: Insights financeiros com IA preditiva
 
 
-Marketplace: Empréstimos P2P e investimentos colaborativos
+Marketplace: Usuários podem apoiar metas públicas em USDC (com limites anti‑Sybil).
 
 Infraestrutura Zero-Knowledge + Base L2
 
